@@ -115,7 +115,12 @@ INSERT INTO `products` (`product_id`, `product_name`, `allergens`, `price`, `des
 (2, 'Baklava', 'wheat, nuts', '3.99', 'Baklava is a rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened and held together with syrup, frosting or honey.'),
 (3, 'Lemon Square', 'wheat', '1.99', 'These vegan lemon bars are the best ever. Tangy, sweet and lemony with a shortbread crust and a filling that tastes like lemon meringue pie!'),
 (4, 'Coffee Cake', 'soy, wheat', '3.99', 'Our ever-popular coffee cake—with its swirled cinnamon-sugar blend and finished with a crunchy streusel topping—pairs well with your favorite beverage and a few quiet moments. We''re big fans!'),
-(5, 'Blueberry Muffin', 'soy, wheat', '2.99', 'This delicious muffin is dotted throughout with sweet, juicy blueberries and a hint of lemon and dusted on top with sugar for a delightfully crunchy texture.');
+(5, 'Macarons', 'soy, nuts', '3.00', 'A royal classic, these regal rounds are perfectly bite sized cookies with pipped filling. Available in golden lemon, royal blueberry, or ruby raspberry.'),
+(6, 'Shortbread Cookie', 'wheat', '2.75', 'Buttery and rich, these crumbling cookies make the perfect snack for pairing with afternoon tea.'),
+(7, 'Chocolate Chip Cookie', 'soy, nuts, wheat,', '2.75', 'Our housemade vegan chocolate takes the cake, or cookies, everytime! Melty chocolate with a perfectly balanced crunch to chew factor.'),
+(8, 'Coffee', 'soy, nuts', '4.00', 'No treat is complete without something delicious to dip in in. Offered both hot and iced, our cafe gives all its customers the royal treatment. Flavor choices include vanilla, hazlenut, blueberry and butterscotch.'),
+(9, 'Tea', 'nuts', '4.00', 'In our castle, afternoon tea is all the time. Order a cup hot or iced in black, herbal, or green. Flavors subject to change due to the season.'),
+(10, 'Blueberry Muffin', 'soy, wheat', '2.99', 'This delicious muffin is dotted throughout with sweet, juicy blueberries and a hint of lemon and dusted on top with sugar for a delightfully crunchy texture.');
 
 --
 -- Indexes for dumped tables
